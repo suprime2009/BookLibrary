@@ -1,0 +1,13 @@
+D:\EclipseWork\BookCatalog\BookCatalog-cdi\src\main\java\com\softserveinc\facade\IAuthorFacade.java
+D:\EclipseWork\BookCatalog\BookCatalog-cdi\src\main\java\com\softserveinc\entity\Author.java
+D:\EclipseWork\BookCatalog\BookCatalog-cdi\src\main\java\com\softserveinc\facadeImpl\AuthorFacade.java
+D:\EclipseWork\BookCatalog\BookCatalog-cdi\src\main\java\com\softserveinc\facade\IFacade.java
+D:\EclipseWork\BookCatalog\BookCatalog-cdi\src\main\java\com\softserveinc\facade\IReviewFacade.java
+D:\EclipseWork\BookCatalog\BookCatalog-cdi\src\main\java\com\softserveinc\home\BookHome.java
+D:\EclipseWork\BookCatalog\BookCatalog-cdi\src\main\java\com\softserveinc\entity\Book.java
+D:\EclipseWork\BookCatalog\BookCatalog-cdi\src\main\java\com\softserveinc\home\IHome.java
+D:\EclipseWork\BookCatalog\BookCatalog-cdi\src\main\java\com\softserveinc\entity\Main.java
+D:\EclipseWork\BookCatalog\BookCatalog-cdi\src\main\java\com\softserveinc\facadeImpl\BookFacade.java
+D:\EclipseWork\BookCatalog\BookCatalog-cdi\src\main\java\com\softserveinc\facadeImpl\ReviewFacade.java
+D:\EclipseWork\BookCatalog\BookCatalog-cdi\src\main\java\com\softserveinc\entity\Review.java
+D:\EclipseWork\BookCatalog\BookCatalog-cdi\src\main\java\com\softserveinc\facade\IBookFacade.java
