@@ -41,7 +41,7 @@ public class AuthorFacade implements IAuthorFacade{
 		return (Author) query.getSingleResult();
 	}
 
-	public List<Author> getAuthorsByAverageRating(int rating) {
+	public List<Author> getAuthorsByAverageRating(String rating) {
 		// TODO Auto-generated method stub
 		return null;
 	}

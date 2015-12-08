@@ -9,7 +9,11 @@ import javax.persistence.PersistenceContext;
 import javax.persistence.TypedQuery;
 
 import com.softserveinc.entity.Book;
-
+/**
+ * Implementation basic CRUD operations for Book entity
+ * @author pkrav
+ *
+ */
 @Stateless
 @LocalBean
 public class BookHome implements IHome<Book> {

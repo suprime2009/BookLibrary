@@ -12,6 +12,7 @@ import java.util.Set;
 
 /**
  * The persistent class for the book database table.
+ * @author pkrav
  * 
  */
 @Entity

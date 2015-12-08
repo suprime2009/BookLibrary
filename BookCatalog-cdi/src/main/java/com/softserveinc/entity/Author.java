@@ -12,6 +12,7 @@ import java.util.Objects;
 
 /**
  * The persistent class for the author database table.
+ * @author pkrav
  * 
  */
 @Entity

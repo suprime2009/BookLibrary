@@ -11,6 +11,7 @@ import java.util.Objects;
 
 /**
  * The persistent class for the review database table.
+ * @author pkrav
  * 
  */
 @Entity
