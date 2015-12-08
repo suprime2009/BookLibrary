@@ -1,0 +1,14 @@
+com\softserveinc\facade\IAuthorFacade.class
+com\softserveinc\home\ReviewHome.class
+com\softserveinc\facade\ReviewFacade.class
+com\softserveinc\facade\IBookFacade.class
+com\softserveinc\entity\Author.class
+com\softserveinc\entity\Review.class
+com\softserveinc\entity\Main.class
+com\softserveinc\facade\AuthorFacade.class
+com\softserveinc\facade\BookFacade.class
+com\softserveinc\entity\Book.class
+com\softserveinc\home\BookHome.class
+com\softserveinc\facade\IReviewFacade.class
+com\softserveinc\home\AuthorHome.class
+com\softserveinc\home\IHome.class

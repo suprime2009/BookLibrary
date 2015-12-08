@@ -12,22 +12,19 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-import com.softserveinc.facade.AuthorFacade;
-import com.softserveinc.facade.BookFacade;
-
 
 public class Main {
 	public static void main(String[] args) throws NamingException {
-		BookFacade bf = new BookFacade();
-		Book book = bf.getBookByName("some");
-		System.out.println(book.getBookName());
-		
-		List<Book> list = bf.getBooksWithRating("3");
-		System.out.println(list.get(0).getBookName());
-		
-		AuthorFacade af = new AuthorFacade();
-		Author author = af.getAuthorByFullName("author", "fred");
-		System.out.println(author);
+//		BookFacade bf = new BookFacade();
+//		Book book = bf.getBookByName("some");
+//		System.out.println(book.getBookName());
+//		
+//		List<Book> list = bf.getBooksWithRating("3");
+//		System.out.println(list.get(0).getBookName());
+//		
+//		AuthorFacade af = new AuthorFacade();
+//		Author author = af.getAuthorByFullName("author", "fred");
+//		System.out.println(author);
 		
 //		EntityManagerFactory emf = Persistence.createEntityManagerFactory("primary");
 //		
